@@ -4,7 +4,7 @@ description: Analyze how force operates in any situation—who or what is reduci
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4023
+  version: 1.0.4024
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - force-analysis
