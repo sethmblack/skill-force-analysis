@@ -3,8 +3,9 @@ name: force-analysis
 description: Analyze how force operates in any situation—who or what is reducing persons to things, and how both victim and wielder are degraded by force's operation.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4023
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - force-analysis
 - storytelling
